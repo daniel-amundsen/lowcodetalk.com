@@ -1,5 +1,5 @@
 title = "LOWCODETALK"
-baseURL = "https://example.com"
+baseURL = ""
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
