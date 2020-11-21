@@ -1,8 +1,8 @@
   
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = ""
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 
 DefaultContentLanguage = "en"
