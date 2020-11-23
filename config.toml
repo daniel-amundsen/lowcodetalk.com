@@ -17,8 +17,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  site_logo = ""
+  favicon = "/images/lowcodetalk_favicon.svg"
+  site_logo = "/images/LOWCODETALK_LOGO.svg"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
