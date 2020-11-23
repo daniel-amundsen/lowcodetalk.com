@@ -7,7 +7,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/lowcodetalk_favicon.svg"
   site_logo = "/images/LOWCODETALK_LOGO.svg"
-  description = "The last theme you'll ever need. Maybe."
+  description = "IT Pros and Citizen Developers has a larger role in the digitalization of a company than ever, and we wanna talk about it. What is 'Low or No Code' Solutions? How to use them? and more."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
